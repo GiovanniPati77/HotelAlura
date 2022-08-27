@@ -1,4 +1,4 @@
-# HotelAlura
+# Hotel Alura
 Hotel Alura Desarrollado en Java
 
 Challenge de Alura latam Back End 
